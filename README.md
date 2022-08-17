@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rushivani
-- 👀 I’m interested in summer Internship for front end developer
-- 🌱 I’m currently learning Information Technology and Management from Illinois Institute of Technology Chicagi Illinois
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m highly interested in Internship
+- 🌱 I’m currently learning Information Technology and Management from Illinois Institute of Technology Chicago Illinois
 - 📫 How to reach me shahshivani1502r@gmail.com
 
 <!---
