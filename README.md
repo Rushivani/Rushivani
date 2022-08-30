@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rushivani
-- 👀 I’m highly interested in Internship
+- 👀 Actively looking for spring 23 Internship or Full Time JOb
 - 🌱 I’m currently learning Information Technology and Management from Illinois Institute of Technology Chicago Illinois
 - 📫 How to reach me shahshivani1502r@gmail.com
 
